@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "webpack": "3.4.1"
+    "webpack": "4.26.0"
   },
   "scripts": {
     "bundle" : "webpack"
